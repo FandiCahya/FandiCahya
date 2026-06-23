@@ -12,7 +12,7 @@ I am a results-driven **Software Engineer and Full-Stack Developer** based in In
 
 - 💼 **Current Focus:** Developing scalable web systems (Django/Laravel) and exploring Web3 technologies.
 - ✉️ **How to reach me:** [fandicahya56@gmail.com](mailto:fandicahya56@gmail.com)
-- 🌐 **Portfolio Website:** [fandicahya.tech](https://fandicahya.tech)
+- 🌐 **Portfolio Website:** [cahyame.my.id](https://www.cahyame.my.id/)
 
 ---
 
