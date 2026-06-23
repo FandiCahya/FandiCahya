@@ -12,7 +12,7 @@ I am a results-driven **Software Engineer and Full-Stack Developer** based in In
 
 - 💼 **Current Focus:** Developing scalable web systems (Django/Laravel) and exploring Web3 technologies.
 - ✉️ **How to reach me:** [fandicahya56@gmail.com](mailto:fandicahya56@gmail.com)
-- 🌐 **Portfolio Website:** [Your Portfolio Link Here](https://yourportfolio.com)
+- 🌐 **Portfolio Website:** [fandicahya.tech](https://fandicahya.tech)
 
 ---
 
@@ -79,7 +79,7 @@ I am a results-driven **Software Engineer and Full-Stack Developer** based in In
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/Muhammad Fandi Nurcahya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/Muhammad Fandi Nurcahya](https://www.linkedin.com/in/muhammad-fandi-nurcahya-1061041b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:fandicahya56@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/cay56f" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
