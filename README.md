@@ -64,7 +64,7 @@ I am a results-driven **Software Engineer and Full-Stack Developer** based in In
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FandiCahya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
 </p>
 <p align="center">
-  <img src="https://roadmap.sh/card/tall/6ab290a1921df572a90e14b1?variant=dark" alt="Roadmap AI Engineer" width="30%" />
+  <img src="https://roadmap.sh/card/wide/6ab290a1921df572a90e14b1?variant=dark" alt="Roadmap AI Engineer" width="30%" />
 </p>
 
 <p align="center">
