@@ -68,13 +68,17 @@ I am a results-driven **Software Engineer and Full-Stack Developer** based in In
   <img src="https://streak-stats.demolab.com/?user=FandiCahya&theme=dark&hide_border=false" alt="GitHub Streak" width="97%" />
 </p>
 
+<p align="center">
+  <img src="https://roadmap.sh/card/tall/6ab290a1921df572a90e14b1?variant=dark" alt="Roadmap AI Engineer" width="50%" />
+</p>
+
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FandiCahya&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
-https://roadmap.sh/card/tall/6ab290a1921df572a90e14b1?variant=dark
+
 
 ---
 
