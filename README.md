@@ -74,6 +74,7 @@ I am a results-driven **Software Engineer and Full-Stack Developer** based in In
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FandiCahya&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
+https://roadmap.sh/card/tall/6ab290a1921df572a90e14b1?variant=dark
 
 ---
 
